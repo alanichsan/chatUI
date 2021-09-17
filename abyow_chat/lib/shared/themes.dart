@@ -7,6 +7,7 @@ Color kWhiteColor = Color(0xFFffffff);
 Color kBlackColor = Color(0xFF333333);
 Color kGreyColor = Color(0xFF888888);
 Color kPrimaryColor = Color(0xFF5cb2c2);
+Color kBackgroundColor = Color(0xFFFAFAFA);
 
 
 
